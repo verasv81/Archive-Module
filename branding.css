@@ -1,0 +1,28 @@
+/* Change background color of pages */
+body{background-color:#e0f7fa;}
+/* Change color of the text in table hover */
+th{color:  #1565c0;}
+/* Change color of the text in table */
+td{color: #5D4037;}
+/*Change background color of table*/
+table{background-color:#FFFDE7;}
+/* Change color of the left list */
+.list-group-item{background-color:#0D47A1;}
+/*Change the text color in the navbar*/
+.container-fluid{color: white;}
+.navbar{background-color:#0D47A1; color: white;border: none;}
+.form-control{background-color:red/*#E1F5FE*/;}
+.control-label{color:/*#1565c0*/#0D47A1;}
+/*Changing color of menu links*/
+a{color:white;}
+a:hover{background-color:none;color: white;}
+li:hover:active{background-color:#1565C0;}
+a.li.active{color: black;}
+a:visited{color:white;}
+/* Change background color of buttons on hover */
+div.tab button:hover,.tab {background-color:#FFF9C4;color: #0D47A1}
+/* Create an active/current tablink class */
+div.tab button.active {background-color: #FFF59D;color: #0D47A1}
+.tablinks{color: #0D47A1;}
+/*Change background color of tabcontent */
+.tabcontent{ background-color: #FFF59D;border: 1px solid #FFEBEE;}
