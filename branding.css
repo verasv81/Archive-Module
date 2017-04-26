@@ -7,7 +7,7 @@ td{color: #5D4037;}
 /*Change background color of table*/
 table{background-color:#FFFDE7;}
 /* Change color of the left list */
-.list-group-item{background-color:#0D47A1;}
+.list-group-item{background-color:#0D47A1;color:white;}
 /*Change the text color in the navbar*/
 .container-fluid{color: white;}
 .navbar{background-color:#0D47A1; color: white;border: none;}
@@ -15,10 +15,10 @@ table{background-color:#FFFDE7;}
 .control-label{color:/*#1565c0*/#0D47A1;}
 /*Changing color of menu links*/
 a{color:white;}
-a:hover{background-color:none;color: white;}
+a:hover{background-color:none;color:#1565c0;}
 li:hover:active{background-color:#1565C0;}
 a.li.active{color: black;}
-a:visited{color:white;}
+a:visited{color:/*#1565c0*/white;}
 /* Change background color of buttons on hover */
 div.tab button:hover,.tab {background-color:#FFF9C4;color: #0D47A1}
 /* Create an active/current tablink class */
